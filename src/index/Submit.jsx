@@ -9,4 +9,4 @@ export default function Submit(props) {
             </button>
         </div>
     )
-};
+}

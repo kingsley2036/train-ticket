@@ -18,7 +18,6 @@ import {
   hideDateSelector,
   setDepartDate,
   toggleHighSpeed
-
 } from "./actions"
 import "./App.css"
 import { h0 } from '../common/fp';
